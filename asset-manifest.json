@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kirupa_reduxcounter/static/css/main.824102dd.css",
+    "main.js": "/kirupa_reduxcounter/static/js/main.5997b12b.js",
+    "index.html": "/kirupa_reduxcounter/index.html",
+    "main.824102dd.css.map": "/kirupa_reduxcounter/static/css/main.824102dd.css.map",
+    "main.5997b12b.js.map": "/kirupa_reduxcounter/static/js/main.5997b12b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.824102dd.css",
+    "static/js/main.5997b12b.js"
+  ]
+}
