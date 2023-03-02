@@ -5,10 +5,10 @@ class Counter extends Component {
     return (  
       <div className="container">
         <button className="buttons"
-                onClick={this.props.decreaseCount}>⬇️</button>
+                onClick={this.props.decreaseCount}>🔽</button>
         <span>{this.props.countValue}</span>
         <button className="buttons"
-                onClick={this.props.increaseCount}>⬆️</button>
+                onClick={this.props.increaseCount}>🔼</button>
       </div>
     );
   }
